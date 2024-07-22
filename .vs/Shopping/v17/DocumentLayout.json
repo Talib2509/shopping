@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|c:\\users\\mirtalib\\source\\repos\\shopping\\shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|solutionrelative:shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|c:\\users\\mirtalib\\source\\repos\\shopping\\shopping\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|solutionrelative:shopping\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|c:\\users\\mirtalib\\source\\repos\\shopping\\shopping\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|solutionrelative:shopping\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|c:\\users\\mirtalib\\source\\repos\\shopping\\shopping\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|solutionrelative:shopping\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|c:\\users\\mirtalib\\source\\repos\\shopping\\shopping\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FB3FA7-F8A1-4DD9-9F9D-9CD91C3449E9}|Shopping\\Shopping.csproj|solutionrelative:shopping\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\customer.cs",
+              "RelativeDocumentMoniker": "Shopping\\customer.cs",
+              "ToolTip": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\customer.cs",
+              "RelativeToolTip": "Shopping\\customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:32:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\admin.cs",
+              "RelativeDocumentMoniker": "Shopping\\admin.cs",
+              "ToolTip": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\admin.cs",
+              "RelativeToolTip": "Shopping\\admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:56:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping\\Program.cs",
+              "ToolTip": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Program.cs",
+              "RelativeToolTip": "Shopping\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA1wJoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:55:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Icustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Icustomer.cs",
+              "RelativeDocumentMoniker": "Shopping\\Icustomer.cs",
+              "ToolTip": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Icustomer.cs",
+              "RelativeToolTip": "Shopping\\Icustomer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:31:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ishopping.cs",
+              "DocumentMoniker": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Ishopping.cs",
+              "RelativeDocumentMoniker": "Shopping\\Ishopping.cs",
+              "ToolTip": "C:\\Users\\Mirtalib\\source\\repos\\Shopping\\Shopping\\Ishopping.cs",
+              "RelativeToolTip": "Shopping\\Ishopping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:59:38.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
